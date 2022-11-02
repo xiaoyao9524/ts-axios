@@ -28,7 +28,7 @@ const router = express.Router()
 
 registerSimpleRouter()
 
-// registerBaseRouter()
+registerBaseRouter()
 
 // registerErrorRouter()
 
